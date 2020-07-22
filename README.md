@@ -1,3 +1,2 @@
-# Dhruba44.github.io
-[Dhruba Dey]
-Website for DDS Projects
+[DDS Projects Site]
+  [Dhruba Dey]
