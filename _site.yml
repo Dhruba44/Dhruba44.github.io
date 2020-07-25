@@ -1,9 +1,0 @@
- 
-name: "My Website"
-navbar: 
-  title: "My Website"
-  left: 
-    - text: "Home"
-      href: index.html
-    - text: "Case Study 1"
-      hrer: DDS_Case_Study_27JUN2020_2238.html
